@@ -1,0 +1,13 @@
+{
+  "name": "traceur",
+  "version": "0.0.1pre",
+  "author": "kuno",
+  "directories": {
+                  "bin":"./bin", "util":"./util",
+                  "syntax":"./syntax", "lib": "./lib",
+                  "semantics":"./semantics", 
+                  "codegeneration":"./codegeneration",
+                  "test":"./test", "sample":"./sample"
+                  },
+  "main": "traceur.js"
+}
